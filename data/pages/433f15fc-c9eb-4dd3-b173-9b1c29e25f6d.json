@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-12-04T04:13:43.232Z",
+  "created_by": "pbinkley",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1",
+  "updated_at": "2024-12-04T04:13:43.232Z",
+  "updated_by": "pbinkley",
+  "parent": "2ed79b57-0b02-4afe-8f0a-417ecae7607d",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "243c86b9-85e5-4f94-b3dd-337a784ea13b"
+  }
+}
